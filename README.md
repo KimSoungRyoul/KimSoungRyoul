@@ -13,7 +13,7 @@
 
 
 #### Conference
-  * PyCon Korea 2020 발표영상 (Django ORM (QuerySet)구조와 원리 그리고 최적화전략) : [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=EZgLfDrUlrk)](https://www.youtube.com/c/kyleschool)
+  * PyCon Korea 2020 발표영상 (Django ORM (QuerySet)구조와 원리 그리고 최적화전략) : [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=EZgLfDrUlrk)](https://www.youtube.com/watch?v=EZgLfDrUlrk)
 	
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 	
