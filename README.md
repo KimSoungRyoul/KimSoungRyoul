@@ -2,7 +2,13 @@
 
 [![KimSoungRyoul's github stats](https://github-readme-stats.vercel.app/api?username=KimSoungRyoul&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSoungRyoul&layout=compact&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Infos: [![Tech Blog Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://soungryoul-kim.medium.com/)](https://soungryoul-kim.medium.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soungryoul-%EC%84%B1%EB%A0%AC-kim-558a14156/)](https://www.linkedin.com/in/soungryoul-%EC%84%B1%EB%A0%AC-kim-558a14156/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsoungryoul@gmail.com)](mailto:kimsoungryoul@gmail.com)
+#### Infos: 
+* #### Tech Blog  [![Tech Blog Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://soungryoul-kim.medium.com/)](https://soungryoul-kim.medium.com/) 
+* #### SNS Link [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soungryoul-%EC%84%B1%EB%A0%AC-kim-558a14156/)](https://www.linkedin.com/in/soungryoul-%EC%84%B1%EB%A0%AC-kim-558a14156/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimsoungryoul@gmail.com)](mailto:kimsoungryoul@gmail.com) [![Gmail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimsoungryoul/)
+
+#### Open Source Contribution
+
+* 
 	
 
 #### Skills 
@@ -13,7 +19,7 @@
 
 
 #### Conference
-  * [PyCon Korea 2020 발표영상 (Django ORM (QuerySet)구조와 원리 그리고 최적화전략)](https://www.youtube.com/watch?v=EZgLfDrUlrk) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=EZgLfDrUlrk)]
+  * [PyCon Korea 2020 발표영상 (Django ORM (QuerySet)구조와 원리 그리고 최적화전략)](https://www.youtube.com/watch?v=EZgLfDrUlrk) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=EZgLfDrUlrk)]()
 	
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 	
