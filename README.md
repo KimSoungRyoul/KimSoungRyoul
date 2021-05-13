@@ -5,7 +5,7 @@
 
 #### Infos: 
 * #### Tech Blog: [![Tech Blog Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://soungryoul-kim.medium.com/)](https://soungryoul-kim.medium.com/) 
-* #### SNS Link: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soungryoul-%EC%84%B1%EB%A0%AC-kim-558a14156/)](https://www.linkedin.com/in/soungryoul-%EC%84%B1%EB%A0%AC-kim-558a14156/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimsoungryoul@gmail.com)](mailto:kimsoungryoul@gmail.com) [![Gmail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimsoungryoul/)
+* #### SNS Link: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimsoungryoul/)](https://www.linkedin.com/in/kimsoungryoul/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimsoungryoul@gmail.com)](mailto:kimsoungryoul@gmail.com) [![Gmail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimsoungryoul/)
 
 #### Open Source Contribution
 
