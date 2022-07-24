@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=SoungRyoul Kim&fontSize=90)
+
+
 
 
 [![KimSoungRyoul's github stats](https://github-readme-stats.vercel.app/api?username=KimSoungRyoul&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSoungRyoul&layout=compact&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
