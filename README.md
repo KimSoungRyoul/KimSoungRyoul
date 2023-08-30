@@ -1,7 +1,8 @@
 
 
-[![KimSoungRyoul's github stats](https://github-readme-stats.vercel.app/api?username=KimSoungRyoul&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSoungRyoul&layout=compact&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSoungRyoul&layout=compact&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![KimSoungRyoul's github stats](https://github-readme-stats.vercel.app/api?username=KimSoungRyoul&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 #### Infos: 
 * #### Tech Blog: [![Tech Blog Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://soungryoul-kim.medium.com/)](https://soungryoul-kim.medium.com/) 
