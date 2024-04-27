@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tfranzel&repo=drf-spectacular" />
 </a>
 <a href="https://github.com/KimSoungRyoul/locust-plugins-helm">
-  <img align="center" src="https://github.com/KimSoungRyoul/locust-plugins-helm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KimSoungRyoul&repo=locust-plugins-helm" />
 </a>
 	
 
