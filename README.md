@@ -127,7 +127,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSoungRyoul&layout=compact&theme=tokyonight&hide=css,html,javascript" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSoungRyoul&layout=compact&hide=css,html,javascript" alt="Top Languages" />
 </p>
 
 ---
