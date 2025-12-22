@@ -74,56 +74,21 @@
 
 ## 2. Open Source Contributions
 
-### Major Contributions
-
-#### Django - `db_comment` Feature ([PR #14463](https://github.com/django/django/pull/14463))
-> Added support for database comments on columns and tables in Django 4.2+
-
-<details>
-<summary><b>Code Example</b></summary>
-
-```python
-class MyModel(models.Model):
-    name = models.CharField(max_length=100, db_comment="User's display name")
-    
-    class Meta:
-        db_table_comment = "Stores user information"
-```
-
-</details>
-
-<a href="https://github.com/django/django">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=django&repo=django&theme=tokyonight" />
-</a>
-
-#### drf-spectacular - OpenAPI/Swagger Enhancement
-> Listed as Contributor in DRF Official Documentation ([Third Party Packages](https://www.django-rest-framework.org/topics/documenting-your-api/#third-party-packages))
+| Project | Contributions | PRs |
+|---------|---------------|-----|
+| [django/django](https://github.com/django/django) | `db_comment` feature ([Django 4.2+ Docs](https://docs.djangoproject.com/en/6.0/releases/4.2/#comments-on-columns-and-tables)) | [#14463](https://github.com/django/django/pull/14463) |
+| [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) | OpenAPI Examples, SwaggerUI Settings, QuerySerializer | [#164](https://github.com/tfranzel/drf-spectacular/pull/164), [#208](https://github.com/tfranzel/drf-spectacular/pull/208), [#225](https://github.com/tfranzel/drf-spectacular/pull/225) |
 
 <details>
-<summary><b>Contributions</b></summary>
+<summary><b>Minor Contributions</b></summary>
 
-- OpenAPI Examples support
-- SwaggerUI Settings support
-- QuerySerializer documentation
-
-</details>
-
-<a href="https://github.com/tfranzel/drf-spectacular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tfranzel&repo=drf-spectacular&theme=tokyonight" />
-</a>
-
-### Other Contributions
-
-<details>
-<summary><b>View All</b></summary>
-
-| Project | Contributions | Link |
-|---------|--------------|------|
-| [bentoml/BentoML](https://github.com/bentoml/BentoML) | Docs fixes, Bug fixes, Client improvements | 6+ PRs |
-| [bentoml/Yatai](https://github.com/bentoml/Yatai) | Korean localization | 1 PR |
-| [bentoml/yatai-deployment](https://github.com/bentoml/yatai-deployment) | Minikube profile support | 1 PR |
-| [kserve/models-web-app](https://github.com/kserve/models-web-app) | Bug fixes | 1 PR |
-| [pytest-tipsi-django](https://github.com/micro-fan/pytest-tipsi-django) | Cache DB test fixture bug fix | 1 PR |
+| Project | Contributions | PRs |
+|---------|---------------|-----|
+| [bentoml/BentoML](https://github.com/bentoml/BentoML) | Docs, Bug fixes, Client improvements | [#3306](https://github.com/bentoml/BentoML/pull/3306), [#3359](https://github.com/bentoml/BentoML/pull/3359), [#3429](https://github.com/bentoml/BentoML/pull/3429), [#3715](https://github.com/bentoml/BentoML/pull/3715), [#4135](https://github.com/bentoml/BentoML/pull/4135), [#4287](https://github.com/bentoml/BentoML/pull/4287) |
+| [bentoml/Yatai](https://github.com/bentoml/Yatai) | Korean localization | [#362](https://github.com/bentoml/Yatai/pull/362) |
+| [bentoml/yatai-deployment](https://github.com/bentoml/yatai-deployment) | Minikube profile support | [#102](https://github.com/bentoml/yatai-deployment/pull/102) |
+| [kserve/models-web-app](https://github.com/kserve/models-web-app) | Bug fixes | [#53](https://github.com/kserve/models-web-app/pull/53) |
+| [pytest-tipsi-django](https://github.com/micro-fan/pytest-tipsi-django) | Cache/DB test fixture bug fix | [#9](https://github.com/micro-fan/pytest-tipsi-django/pull/9), [#10](https://github.com/micro-fan/pytest-tipsi-django/pull/10) |
 
 </details>
 
