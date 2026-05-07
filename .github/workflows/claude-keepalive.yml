@@ -16,14 +16,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Inspect token shape (no value leaked)
+      - name: Sanitize OAuth token (strip whitespace/newlines)
         env:
-          TOK: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          RAW: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
-          printf 'length=%s\n' "${#TOK}"
-          printf 'prefix=%s\n' "${TOK:0:12}"
-          printf 'has_newline=%s\n' "$(printf %s "$TOK" | tr -cd '\n' | wc -c)"
-          printf 'has_space=%s\n' "$(printf %s "$TOK" | tr -cd ' \t' | wc -c)"
+          CLEAN=$(printf %s "$RAW" | tr -d '[:space:]')
+          echo "::add-mask::$CLEAN"
+          echo "CLAUDE_CODE_OAUTH_TOKEN=$CLEAN" >> "$GITHUB_ENV"
 
       - name: Send hi prompt to Claude (Haiku)
         uses: anthropics/claude-code-base-action@beta
@@ -31,4 +30,4 @@ jobs:
           prompt: "hi"
           model: "claude-haiku-4-5-20251001"
           max_turns: "1"
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_code_oauth_token: ${{ env.CLAUDE_CODE_OAUTH_TOKEN }}
