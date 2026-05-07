@@ -1,0 +1,25 @@
+name: Claude Keepalive
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Send hi prompt to Claude (Haiku)
+        uses: anthropics/claude-code-base-action@beta
+        with:
+          prompt: "hi"
+          model: "claude-haiku-4-5-20251001"
+          max_turns: "1"
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
