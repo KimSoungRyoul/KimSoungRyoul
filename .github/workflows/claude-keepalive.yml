@@ -16,6 +16,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Inspect token shape (no value leaked)
+        env:
+          TOK: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          printf 'length=%s\n' "${#TOK}"
+          printf 'prefix=%s\n' "${TOK:0:12}"
+          printf 'has_newline=%s\n' "$(printf %s "$TOK" | tr -cd '\n' | wc -c)"
+          printf 'has_space=%s\n' "$(printf %s "$TOK" | tr -cd ' \t' | wc -c)"
+
       - name: Send hi prompt to Claude (Haiku)
         uses: anthropics/claude-code-base-action@beta
         with:
